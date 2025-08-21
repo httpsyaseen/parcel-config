@@ -1,0 +1,13 @@
+{
+  "downloadInsta": true,
+  "downloadFacebook": true,
+  "downloadYoutube": true,
+  "downloadTwitter": true,
+  "serverUrl": "https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-17c30763-8037-45f0-bab5-530da6ca00b0/instadl/resolve",
+  "showAds": false,
+  "appOpen": true,
+  "bannerAd": true,
+  "downloadButton": true,
+  "videoPlay": true,
+  "shareLink": "https://youtu.be/sTaEwwHOzjc"
+}
