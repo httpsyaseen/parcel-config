@@ -1,7 +1,7 @@
 {
   "downloadInsta": true,
   "downloadFacebook": true,
-  "downloadYoutube": true,
+  "downloadYoutube": false,
   "downloadTwitter": true,
   "serverUrl": "https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-17c30763-8037-45f0-bab5-530da6ca00b0/instadl/resolve",
   "appOpen": false,
